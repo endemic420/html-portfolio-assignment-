@@ -1,1 +1,10 @@
 /* Nav Bar */
+.header{
+    display: flex;
+    background: black;
+}
+
+.logo{
+    display: flex;
+    background: black;
+}
